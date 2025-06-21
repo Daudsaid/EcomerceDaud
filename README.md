@@ -6,9 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Live on Vercel]([https://ecomercedaud.vercel.app](https://ecomerce-daud-z9gs.vercel.app/))
-
----
+🔗 View EcomerceDaud Live on Vercel
 
 ## 📸 Screenshots
 
