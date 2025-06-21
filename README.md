@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Live on Vercel](https://ecomercedaud.vercel.app) *(link to be updated after deployment)*
+🔗 [View Live on Vercel]([https://ecomercedaud.vercel.app](https://ecomerce-daud-z9gs.vercel.app/))
 
 ---
 
