@@ -4,10 +4,8 @@
 
 ---
 
-## 🚀 Live Demo
-
-🔗 View EcomerceDaud Live on Vercel
-
+### 🚀 Live Demo
+[Check out the deployed app on Vercel](https://ecomerce-daud-z9gs.vercel.app/)
 ## 📸 Screenshots
 
 | Home Page                         | Product Page                        | Cart Page                         |
